@@ -16,3 +16,4 @@ $(document).ready(function() {
 		$("#tracker").html("Unable to display any data from API");
 	}
 });
+
